@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Priyank 👋
 
-<!--
-**Priyankshah01/Priyankshah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **UI/UX Designer** and **Web Developer** passionate about creating intuitive digital experiences. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Studying **Web Development** at Humber College
+- 💼 Employment **Co-op UX Designer at HRXconnect**
+- 🌱 Exploring **Web Development, AI-driven Design, and VUI**
+- 🛠️ Worked on **Giftelle, a curated gifting platform**
+- 📫 Reach me at **[priyankshah0101@gmail.com]** or connect on **[LinkedIn](https://www.linkedin.com/in/shah-priyank/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: PHP, MySQL
+- Database: SQL
+- Design: Figma, Adobe XD, Photoshop
+
+## 📌 Featured Projects
+- **Giftelle** - AI-powered gift recommendation platform 🎁
+- **School Registration System** - Customizable web solution for private schools 📚
+- **The OG Verse** - Retail clothing brand website 👕
+  
+Check out my work: **[GitHub Profile](https://github.com/Priyankshah01)**
+                  **[Behance Profile](https://www.behance.net/priyankshah0101)**
+                  **[UX Portfolio](https://priyankshah0101.wixstudio.com/portfolio)**
